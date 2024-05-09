@@ -6,11 +6,13 @@
 
 ![Ejercicio1](screenshots/1a.png)
 
-![Ejercicio1_1](screenshots/1b.png)
+
 
 ## EJERCICIO 2
 
 ![Ejercicio2](screenshots/2a.png)
+
+![Ejercicio2](screenshots/2b.png)
 
 ## EJERCICIO 3
 
